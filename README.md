@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**sup3r-b0y/sup3r-b0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This is Mrityunjoy, I'm interested in Application/Cloud security, also I used to participate in bug bounties at HackerOne and Synack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻
+
+- Pentest Team Lead / Core Pentester - Cobalt Labs Inc.
+
+#### **Previously:**
+- HackerOne : [Mrityunjoy (sup3r-b0y)](https://hackerone.com/sup3r-b0y?type=user).
+- Synack: [mrityunjoy](https://platform.synack.com/profile/mrityunjoy).
+
+### 📚 Blogs
+
+- https://blog.mrityunjoy.com/
+
+
+### 📫 Reach me
+
+- Linkedin - [Mrityunjoy Biswas](https://www.linkedin.com/in/mrityunjoy-biswas/)
+
+- Twitter - [Mrityunjoy](https://twitter.com/mitunjoy11)
