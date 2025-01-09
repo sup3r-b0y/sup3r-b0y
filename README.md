@@ -13,7 +13,7 @@ I used to participate in bug bounties at HackerOne and Synack
 
 ### 📚 Blogs
 
-- https://blog.mrityunjoy.com/
+- https://mbiswas.hashnode.dev/
 
 
 ### 📫 Reach me
