@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-This is Mrityunjoy, I'm interested in Application/Cloud security, Currently work at Cobalt as a Lead Pentester, where I lead pentest engagements, triage reported vulnerabilities, coordinate team activities, and conduct penetration testing on different pentest engagements.
+This is Mrityunjoy, I'm interested in Application/ML,LLM/Cloud security, Currently work at Cobalt as a Lead Pentester, where I lead pentest engagements, triage reported vulnerabilities, coordinate team activities, and conduct penetration testing on different pentest engagements.
 ### 👨‍💻
 
 - Pentest Team Lead / Core Pentester - Cobalt Labs Inc.
