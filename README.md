@@ -16,5 +16,3 @@ I used to participate in bug bounties at HackerOne and Synack
 ### 📫 Reach me
 
 - Linkedin - [Mrityunjoy Biswas](https://www.linkedin.com/in/mrityunjoy-biswas/)
-
-- Twitter - [Mrityunjoy](https://twitter.com/mitunjoy11)
